@@ -22,6 +22,4 @@ Responsividade:
 O layout foi projetado para ser simples e responsivo, adaptando-se a diferentes tamanhos de tela, embora não tenha sido utilizado um framework específico para responsividade.
 Publicação:
 
-O portfólio pode ser publicado em plataformas como GitHub Pages, permitindo que seja acessado online através de um link.
-
 Limk de acesso:https://brenogamademiranda.github.io/Potifolio_Pagina/
